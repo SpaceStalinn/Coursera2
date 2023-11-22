@@ -1,0 +1,22 @@
+/*Name this external file gallery.css*/
+body{
+    margin: 2%;
+    border: 1px solid black;
+    background-color: #b3b3b3;
+    text-align: center;
+    padding: 20px;
+}
+
+.preview{
+    width: 40%; 
+    margin: 2%;
+    border: 10px solid black;
+    display: inline-block; 
+    box-sizing: border-box; 
+}
+
+img{
+    width:95%;
+    display: inline-block;
+}
+
